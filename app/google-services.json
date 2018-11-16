@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "188518356887",
+    "firebase_url": "https://chatapp-c77a9.firebaseio.com",
+    "project_id": "chatapp-c77a9",
+    "storage_bucket": "chatapp-c77a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188518356887:android:546a6a46891a8a6e",
+        "android_client_info": {
+          "package_name": "com.example.fakhar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188518356887-gfb6hu2r0ap0qb711u0oj1nqjlol0a6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fakhar.myapplication",
+            "certificate_hash": "312b8aec72dca74c8b126de9c06d7baaf4a01986"
+          }
+        },
+        {
+          "client_id": "188518356887-q2skbg7p360ufd0f7tf8pqmqsajkuu9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoHdTM24PvWgJCATumMLzlAeVuCxeW_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188518356887-q2skbg7p360ufd0f7tf8pqmqsajkuu9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
